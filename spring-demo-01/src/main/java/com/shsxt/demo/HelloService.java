@@ -6,6 +6,7 @@ public class HelloService {
 		System.out.println("hello spring !");
 		System.out.println("hello mvc");
 		System.out.println("jiangfeng");
+		System.out.println("jiangfeng");
 	}
 
 }
